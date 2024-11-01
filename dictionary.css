@@ -1,5 +1,5 @@
 :root{
-    --primary-color:#008080;
+    --primary-color:#121b1b;
     --bg-color:#f5f5f5;
     --padding:20px;
     --text-color:#fff;
@@ -16,6 +16,10 @@ body{
     height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
     background-color: var(--bg-color);
+    background-image: url(https://wallpaperaccess.com/full/5680385.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 header{
 background-color:var(--primary-color) ;
